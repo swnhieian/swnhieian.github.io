@@ -24,7 +24,7 @@ Weinan Shi is an assistant researcher in the Department of Computer Science and 
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Two papers are accepted by IMWUT 2024. 
-- *2024.10*: &nbsp;🎉🎉 Our smart ring is exhibited on [Lenovo Tech World 2024](https://www.lenovo.com/us/en/events/techworld/?srsltid=AfmBOooAuR1-wjHR2lAeneZNXpWOy1nSUQ6SbrQ9lf3xdXp3LlttRxNA). See the introduction in [video]({{ "/assets/videos/techworld.webm" | relative_url }}).
+- *2024.10*: &nbsp;🎉🎉 Our smart ring is exhibited on [Lenovo Tech World 2024](https://www.lenovo.com/us/en/events/techworld/?srsltid=AfmBOooAuR1-wjHR2lAeneZNXpWOy1nSUQ6SbrQ9lf3xdXp3LlttRxNA). See introduction in this [video]({{ "/assets/videos/techworld.webm" | relative_url }}).
 
 # 📝 Publications 
 
