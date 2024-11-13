@@ -56,12 +56,14 @@ I am an assistant researcher in the Department of Computer Science and Technolog
 - `CHI 2017` [Word clarity as a metric in sampling keyboard test sets](https://dl.acm.org/doi/abs/10.1145/3025453.3025701), Xin Yi, Chun Yu, **Weinan Shi**, Xiaojun Bi, Yuanchun Shi
 
 # 🎖 Honors and Awards
-- *2024.10* Third Prize in Ubiquitous Intelligent Sensing Technology Innovation Application Competition
+- *2024.10* Third prize in Ubiquitous Intelligent Sensing Technology Innovation Application Competition
 - *2021.06* Outstanding Graduate, Department of CS, Tsinghua University
+- *2021.04* Second prize in "Challenge Cup" Academic Science and Technology Works Competition, Tsinghua University
 - *2020.10* First prize in the China Human-Factors Engineering Design Competition
 - *2019.10* National Scholarship, Ministry of Education, China
 - *2019.09* First prize in 84 "Future Innovation" scholarship (Only 1), Department of CS, Tsinghua University
 - *2019.05* Honorable Mention Award (Top 5%), ACM CHI 2019
+- *2019.01* Qingfeng Scholarship, Tsinghua University
 - *2016.06* Outstanding Graduate, Department of CS, Tsinghua University
 
 
