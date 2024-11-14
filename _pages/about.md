@@ -61,7 +61,7 @@ I am an assistant researcher in the Department of Computer Science and Technolog
 - *2021.04* Second prize in "Challenge Cup" Academic Science and Technology Works Competition, Tsinghua University
 - *2020.10* First prize in the China Human-Factors Engineering Design Competition
 - *2019.10* National Scholarship, Ministry of Education, China
-- *2019.09* First prize in 84 "Future Innovation" scholarship (Only 1), Department of CS, Tsinghua University
+- *2019.09* First prize in 84 "Future Innovation" Scholarship (Only 1), Department of CS, Tsinghua University
 - *2019.05* Honorable Mention Award (Top 5%), ACM CHI 2019
 - *2019.01* Qingfeng Scholarship, Tsinghua University
 - *2016.06* Outstanding Graduate, Department of CS, Tsinghua University
