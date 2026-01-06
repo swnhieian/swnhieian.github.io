@@ -42,7 +42,11 @@ I am an assistant researcher in the Department of Computer Science and Technolog
 </div>
 </div> -->
 
-
+- `UbiComp 2025` [τ-Ring: A Smart Ring Platform for Multimodal Physiological and Behavioral Sensing](https://dl.acm.org/doi/abs/10.1145/3714394.3756252), Jiankai Tang, Zhe He, Mingyu Zhang, Wei Geng, Chengchi Zhou, **Weinan Shi**, Yuanchun Shi, Yuntao Wang
+- `UIST 2025` [InterQuest: A Mixed-Initiative Framework for Dynamic User Interest Modeling in Conversational Search](https://dl.acm.org/doi/abs/10.1145/3746059.3747753), Yu Mei, Yuanxi Wang, Shiyi Wang, Qingyang Wan, Zhuojun Li, Chun Yu, **Weinan Shi\***, Yuanchun Shi
+- `CHI 2025` [From Operation to Cognition: Automatic Modeling Cognitive Dependencies from User Demonstrations for GUI Task Automation](https://dl.acm.org/doi/abs/10.1145/3706598.3713356), Yiwen Yin, Yu Mei, Chun Yu, Toby Jia-Jun Li, Aamir Khan Jadoon, Sixiang Cheng, **Weinan Shi**, Mohan Chen, Yuanchun Shi
+- `CHI 2025` [Investigating Context-Aware Collaborative Text Entry on Smartphones using Large Language Models](https://dl.acm.org/doi/full/10.1145/3706598.3713944), Weihao Chen, Yuanchun Shi, Yukun Wang, **Weinan Shi\***, Meizhu Chen, Cheng Gao, Yu Mei, Yeshuang Zhu, Jinchao Zhang, Chun Yu
+- `ToCHI 2025` [Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts](https://dl.acm.org/doi/abs/10.1145/3716132), Tian Huang, Chun Yu, **Weinan Shi**, Zijian Peng, David Yang, Weiqi Sun, Yuanchun Shi
 - `IMWUT 2024` [AngleSizer: Enhancing Spatial Scale Perception for the Visually Impaired with an Interactive Smartphone Assistant](https://dl.acm.org/doi/abs/10.1145/3678525), Xiaoqing Jing, Chun Yu, Kun Yue, Liangyou Lu, Nan Gao, **Weinan Shi\***, Mingshan Zhang, Ruolin Wang, Yuanchun Shi
 - `IMWUT 2024` [EasyAsk: An In-App Contextual Tutorial Search Assistant for Older Adults with Voice and Touch Inputs](https://dl.acm.org/doi/abs/10.1145/3678516), Weiwei Gao, Kexin Du, Yujia Luo, **Weinan Shi\***, Chun Yu, Yuanchun Shi
 - `CHI 2024` [ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation](https://dl.acm.org/doi/abs/10.1145/3613904.3642129), Xianzhe Fan, Zihan Wu, Chun Yu, Fenggui Rao, **Weinan Shi\***, Teng Tu
