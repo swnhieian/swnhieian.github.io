@@ -42,6 +42,9 @@ I am an assistant researcher in the Department of Computer Science and Technolog
 </div>
 </div> -->
 
+- `CHI 2026` [3DRing: Enabling Low-Cost 3D Hand Position Tracking by Fusing Inertial and Low-Framerate Optical Sensing](https://doi.org/10.1145/3772318.3791028), Zhuojun Li, Lubin Wang, Chun Yu, Chang Liu, Mingyuan Du, **Weinan Shi\***, Yuanchun Shi
+- `CHI 2026` [TraceRing: Touchpad-like Pointing with a Single IMU Ring through Personalized Learning](https://doi.org/10.1145/3772318.3790463), Zhe He, **Weinan Shi\***, Zixuan Wang, Suya Wu, Xiyuan Shen, Chengchi Zhou, Chun Yu, Yuanchun Shi.
+- `CHI 2026` [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](https://doi.org/10.1145/3772318.3790345), Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, **Weinan Shi\***, Yuanchun Shi
 - `UbiComp 2025` [τ-Ring: A Smart Ring Platform for Multimodal Physiological and Behavioral Sensing](https://dl.acm.org/doi/abs/10.1145/3714394.3756252), Jiankai Tang, Zhe He, Mingyu Zhang, Wei Geng, Chengchi Zhou, **Weinan Shi**, Yuanchun Shi, Yuntao Wang
 - `UIST 2025` [InterQuest: A Mixed-Initiative Framework for Dynamic User Interest Modeling in Conversational Search](https://dl.acm.org/doi/abs/10.1145/3746059.3747753), Yu Mei, Yuanxi Wang, Shiyi Wang, Qingyang Wan, Zhuojun Li, Chun Yu, **Weinan Shi\***, Yuanchun Shi
 - `CHI 2025` [From Operation to Cognition: Automatic Modeling Cognitive Dependencies from User Demonstrations for GUI Task Automation](https://dl.acm.org/doi/abs/10.1145/3706598.3713356), Yiwen Yin, Yu Mei, Chun Yu, Toby Jia-Jun Li, Aamir Khan Jadoon, Sixiang Cheng, **Weinan Shi**, Mohan Chen, Yuanchun Shi
